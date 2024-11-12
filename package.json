@@ -2,7 +2,7 @@
   "name": "killua-zoldyck",
   "version": "4.1.0",
   "description": "WhatsApp Bot Script",
-  "main": "node index.js",
+  "main": "index.js",
   "type": "commonjs",
   "dependencies": {
     "@adiwajshing/baileys": "latest",
